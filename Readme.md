@@ -1,3 +1,6 @@
+# 부부개발단
+https://www.youtube.com/watch?v=3NRGhA19fqM&list=PLHpaQi-LiUCzoALNuLOqLdyRGrlhn7sMD&index=2
+
 # JWT, Spring Security, Spring Data JPA, Spring MVC를 이용한 Fake Shop API만들기
 
 2023.07.07 - Spring Boot 3.1.1 , JDK 17 로 코드 수정함.
